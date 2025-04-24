@@ -1,0 +1,13 @@
+Index: file-roller/po/pt_BR.po
+===================================================================
+--- file-roller.orig/po/pt_BR.po
++++ file-roller/po/pt_BR.po
+@@ -45,7 +45,7 @@ msgstr ""
+ #: data/org.gnome.FileRoller.desktop.in.in:3 src/fr-application-menu.c:131
+ #: src/fr-application.c:473 src/fr-window.c:1868 src/fr-window.c:4588
+ msgid "File Roller"
+-msgstr "File Roller"
++msgstr "Gerenciador de compactação"
+ 
+ #: data/org.gnome.FileRoller.appdata.xml.in:10
+ msgid "Open, modify and create compressed archive files"
